@@ -1,0 +1,2 @@
+# QShoreDevOps
+QShore DevOps Class
